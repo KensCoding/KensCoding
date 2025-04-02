@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @KensCoding
 - 👀 I’m interested in Technology, Video Games and Software Development. 
-- 🌱 I’m currently learning SQL. 
 - 💞️ I’m looking to collaborate on Software Development. 
 - 📫 How to reach me k.rodriguez83@live.com
 
